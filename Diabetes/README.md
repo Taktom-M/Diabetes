@@ -1,4 +1,4 @@
-# Healthcare-Diabetes Prediction
+# Healthcare Diabetes Prediction
 
 ## Project Description
 This project develops a machine learning solution to predict diabetes in patients based on various health indicators including pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, genetic factors, and age to determine the likelihood of diabetes.
@@ -66,7 +66,9 @@ This project implements and compares multiple machine learning algorithms to ide
 
 ### Required Dependencies
 bash
+
 Install all dependencies at once
+
 pip install -r requirements.txt
 
 ## Usage Instructions
